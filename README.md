@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! My name is Pragathi Durga Rajarajan. 
+
+I am an undergraduate junior majoring in computer science at the Universoty of Texas at San Antonio. I am really interested in research and am currently exploring different research fields within CS! 
 
 <!--
 **pdr24/pdr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
