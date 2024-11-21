@@ -1,6 +1,8 @@
 # Hi there! My name is Pragathi Durga Rajarajan. 👋
 ## CS student and undergraduate researcher at the University of Texas at San Antonio
 
+### Introduction
+
 - 🔭 I’m currently working on 
     - [IntoTheRabbitHole](https://github.com/pdr24/IntoTheRabbitHole)
     - Malware Detection in IoT Devices Using Network Data
