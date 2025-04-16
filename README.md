@@ -1,16 +1,16 @@
 # Hi there! My name is Pragathi Durga Rajarajan. 👋
-## CS student and undergraduate researcher at the University of Texas at San Antonio
+## CS student and Undergraduate Researcher at the University of Texas at San Antonio
 
 ### Introduction
 
 - 🔭 I’m currently working on 
-    - [IntoTheRabbitHole](https://github.com/pdr24/IntoTheRabbitHole)
-    - Malware Detection in IoT Devices Using Network Data
-    - Wildlife Classification Using Convolutional Neural Networks
-    - Cardiovascular Disease Prediction with Ensemble Machine Learning Techniques
-    - [HealthSift](https://github.com/Antwon01/HealthSifters)
+    - [AI-See](https://github.com/pdr24/AI-See)
+    - [Distributed deep learning for edge environments](https://github.com/Foley-ops/distributed-dnn-inference-pi)
+    - Computer vision for nuclear materials fabrication applications
+    - Malware detection in IoT devices using network and IoT data
+
       
-- 🌱 I’m currently learning Pytorch and Tensorflow
+- 🌱 I’m currently learning Pytorch 
 
 ### Skills and Technologies
 
