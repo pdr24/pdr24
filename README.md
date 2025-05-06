@@ -1,5 +1,5 @@
 # Hi there! My name is Pragathi Durga Rajarajan. 👋
-## CS student and Undergraduate Researcher at the University of Texas at San Antonio
+## Honors CS Student and Undergraduate Researcher at the University of Texas at San Antonio
 
 ### Introduction
 
