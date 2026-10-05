@@ -16,7 +16,7 @@ Some of my research and projects include:
 - **Multimodal & Few-Shot Segmentation** — Developed segmentation pipelines using models including SAM2 for defect detection in materials fabrication.
 - **LLM Agents** — Contributed to research studying how middle-school students identify LLM agents in live collaborative environments.
 - **Distributed Deep Learning** — Worked on [distributed DNN inference for edge environments](https://github.com/Foley-ops/distributed-dnn-inference-pi), including pipeline-parallel inference across resource-constrained devices.
-- **AI Education** — Developed interactive systems for teaching foundational AI concepts, including [AI-See](https://github.com/pdr24/AI-See), search algorithms, decision trees, and rule-based AI.
+- **AI Education** — Developed interactive systems for teaching foundational AI concepts, including [AI-See](https://github.com/pdr24/ImageRecognitionEd-SIGCSE2026), [search algorithms](https://github.com/pdr24/IntoTheRabbitHole-ITiCSE2025), [decision trees](https://github.com/pdr24/FaunaForest-ISEC2025), and [rule-based AI](https://github.com/pdr24/RuleRunners).
 - **OOD Generalization & Cybersecurity** — Investigated out-of-distribution generalization for ML-based IoT malware detection.
 
 ### 🛠️ Technical Skills
