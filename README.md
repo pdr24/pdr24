@@ -30,3 +30,11 @@ Some of my research and projects include:
 **Tools & Computing:** Git, Linux, Bash, VS Code, LaTeX, Raspberry Pi
 
 **Databases:** MySQL, MongoDB
+
+### 🔧 Research & Productivity Utilities
+
+Small utilities I created to improve my research and productivity workflows. These were developed using AI-generated code based on my specifications and manually tested and iteratively refined by me.
+
+- **[Word Counter Extension](https://github.com/pdr24/word-counter-extension)** — Browser extension for quickly counting highlighted text, built to streamline checking word limits while writing in Overleaf.
+- **[BibCleaner](https://github.com/pdr24/bibcleaner)** — Research utility for validating BibTeX entries and identifying preferred publication links, prioritizing authoritative conference or publisher sources over preprints when available.
+- **[Petal](https://github.com/pdr24/Petal)** — macOS productivity application combining multiple customizable timers, Pomodoro sessions, and productivity tracking to analyze how time is spent across tasks.
